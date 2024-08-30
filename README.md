@@ -4,8 +4,8 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
-answer:Software engineering is the systematic application of engineering approaches and evolving discipline 
+answer:
+Software engineering is the systematic application of engineering approaches and evolving discipline 
 that combines computer science and strategic problem solving with engineering principles, technological advancements 
 and programming languages to create new software that solves all kinds of challenges for businesses and users. 
 It is important in the technology industry because software is a complex and constantly evolving field that requires 
